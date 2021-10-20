@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yejun178&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=yejun178)](https://github.com/ryo-ma/github-profile-trophy)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=yejun178)
 
