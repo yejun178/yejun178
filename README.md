@@ -10,6 +10,8 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
     <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
     <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" />
@@ -18,6 +20,7 @@
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
 </div>
 <br>
 <div align=center>
