@@ -20,7 +20,6 @@
 	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
 </div>
 <br>
 <div align=center>
@@ -34,8 +33,10 @@
 	<img src="https://img.shields.io/badge/Kali-Linux-557C94?style=flat&logo=kalilinux&logoColor=white"/> 
 	<img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
 	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
 	<img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+    
 </div>
 <br>
 <div align=center>
