@@ -46,7 +46,7 @@
 	<a href="https://waiting-cloth-1a3.notion.site/dad1673a66e340ab87096b7e5d2f4504">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
-		<img src="yejun#1978https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=whit" /
+		<img src="https://img.shields.io/badge/discord-5865F2?style=flat&logo=discord&logoColor=whit" - yejun#1978>
 	</a>
 	<a href="https://www.instagram.com/yejun_178/">
 		<img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
